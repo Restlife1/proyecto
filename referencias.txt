@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=uo_yV06qx54	<-	Video 3h MVC con MySQL
+https://www.youtube.com/watch?v=0w-2Ik-VPwU	<-	Video 42min MVC MySQL
+
+XAMPP para conectar MySQL
